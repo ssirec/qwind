@@ -1,120 +1,193 @@
----
----
+Splošni pogoji poslovanja spletne trgovine Mediaservis.si 
+I. Področje uporabe
+1. To so Splošni pogoji poslovanja spletne trgovine Mediaservis.si, ki je last podjetja sirsa d.o.o., Ulica tolminskih puntarjev 4, 5000 Nova Gorica, Slovenija, matična številka: 6013376000, davčna številka: SI21466785 (v nadaljevanju: »Mediaservis«). Če imate vprašanja, nam pišite. V ta namen uporabite kontaktni obrazec na naši spletni strani. Odgovore na splošna vprašanja glede spletnih naročil najdete med Pogostimi vprašanji. Za vas smo dosegljivi tudi na Centru za pomoč uporabnikom.
+Dodatne informacije glede lastnika, upravljavca, izdajatelja in uredništva spletne trgovine najdete med kontaktnimi podatki. 
+2. Za naročila v Mediaservis spletni trgovini (tj. na www.mediaservis.si) veljajo izključno ti splošni pogoji poslovanja, in sicer v različici, ki je veljavna v trenutku oddaje naročila. Določila, ki nasprotujejo tem pogojem poslovanja, jih dopolnjujejo ali od njih odstopajo, ne veljajo, razen če so bila izrecno pisno potrjena. 
+3. V Mediaservis spletni trgovini lahko nakupujete, če ste stari vsaj 18 let. Naša ponudba je prilagojena slovenskim strankam, vendar je skladno z Uredbo (EU) 2018/302 Evropskega parlamenta in Sveta z dne 28. februarja 2018 o naslovitvi neupravičenega geografskega blokiranja in drugih oblik diskriminacije na podlagi državljanstva, kraja prebivališča ali kraja sedeža strank na notranjem trgu ter o spremembi Uredb (ES) št. 2006/2004 in (EU) 2017/2394 ter Direktive 2009/22/ES naša ponudba pod enakimi pogoji na voljo vsem strankam, ki imajo (stalno/začasno) prebivališče znotraj Evropskega gospodarskega prostora in Švice. 
+4. Naša ponudba je namenjena potrošnikom, katerih pravice ureja Zakon o varstvu potrošnikov (Uradni list RS, št. 98/04 – uradno prečiščeno besedilo z vsemi kasnejšimi spremembami). Potrošnik je vsaka fizična oseba, ki pridobiva ali uporablja blago in storitve za namene izven njegove poklicne ali pridobitne dejavnosti. 
+5. Pogodba je napisana v slovenskem jeziku. Vse cene so v EUR (evrih). 
+II. Vaše naročilo – sklenitev kupoprodajne pogodbe 
+1. Naša ponudba se spreminja in je popolnoma nezavezujoča. Pridržujemo si pravico do tehničnih ali drugih sprememb. Kupoprodajna pogodba je sklenjena, ko prejmete elektronsko sporočilo, s katerim vas obvestimo, da smo prejeli vaše naročilo. 
+2. Vse izdelke, ki so označeni kot »dobavljivi«, lahko s klikom na simbol nakupovalnega vozička prestavite v svojo nakupovalno košarico. Ko se odločite za nakup, v košarici kliknite gumb »Na blagajno« in začnite postopek oddaje naročila. 
+a. V Mediaservis spletni trgovini lahko ustvarite svoj uporabniški profil (v nadaljevanju: »Mediaservis profil«), ki vam bo olajšal spletno nakupovanje. Več podatkov o tem najdete v Pogojih uporabe Mediaservis uporabniškega profila in v Informacijah o varstvu osebnih podatkov (obvestilu posameznikom glede obdelave osebnih podatkov). Če želite registrirati nov Mediaservis profil, morate navesti svoje ime, datum rojstva, elektronski naslov in geslo. Z geslom ravnajte zaupno in ga ne posredujte tretjim osebam. Z Mediaservis profilom upravljate sami. V njem lahko spreminjate vse podatke razen datuma rojstva. Za spremembo rojstnega datuma se obrnite na Center za pomoč uporabnikom ali uporabite kontaktni obrazec na naši spletni strani.
+b. Naročilo lahko oddate tudi brez registracije kot gost.
+3. Za zaključek naročila kliknite gumb »Oddaj naročilo«. Tako oddate zavezujoče naročilo z obveznostjo plačila za izdelke iz svoje košarice. Do tega trenutka lahko spreminjate vsebino nakupovalne košarice, po kliku na gumb »Oddaj naročilo« pa sprememba naročila oz. podatkov znotraj naročila žal ni več mogoča. Če bi naročilo vseeno želeli spremeniti, se čim prej obrnite na naš Center za pomoč uporabnikom ali uporabite kontaktni obrazec na naši spletni strani. 
+4. Naročilo lahko oddate šele, ko potrdite, da ste seznanjeni s temi Splošnimi pogoji poslovanja spletne trgovine Mediaservis.si, s pravico do odstopa od pogodbe in Informacijami o varstvu osebnih podatkov (tj. obvestilo posameznikom glede obdelave osebnih podatkov) ter jih sprejmete, in sicer to storite tako, da s klikom na prazno polje ob splošnih pogojih, obvestilu o pravici do odstopa od pogodbe in ob Informacijah o varstvu osebnih podatkov naredite kljukico. 
+5. Po oddaji naročila boste prejeli samodejno obvestilo po elektronski pošti, da smo prejeli vaše naročilo. V tem elektronskem sporočilu (sporočilo, ki ima v zadevi navedeno: »Zahvaljujemo se vam za naročilo«) bodo ponovno navedeni podatki iz vašega naročila. S tem sporočilom je sklenjena kupoprodajna pogodba med podjetjem Sirsa d.o.o. in vami. Z oddajo naročila ste sprejeli obveznost plačila do podjetja Sirsa d.o.o. Če ste izbrali dostavo na izbrani naslov, boste to potrditveno sporočilo prejeli v treh (3) delovnih dneh. Če ste kot način dostave izbrali storitev Hitri prevzem v izbrani Mediaservis prodajalni, boste potrditveno sporočilo prejeli v roku 60 minut, 90 minut ali 180 minut, glede na izbiro kupca (velja seveda med delovnim časom izbrane prodajalne).Če v tem času ne prejmete potrditvenega sporočila ali sporočila, da je bilo vaše naročilo odposlano, oz. ne prejmete naročila, niste več vezani na naročilo, razen če smo vas na spletni strani www.mediaservis.si izrecno obvestili, da so zaradi povečanega števila naročil možne zamude. 
+6. Če izgubite dokumente, povezane z naročilom, uporabite kontaktni obrazec na naši spletni strani in poslali vam bomo kopijo naročila. 
+III. Najnižja vrednost naročila in omejitev količine naročila 
+1. Pri naročilu v Mediaservis spletni trgovini ni najmanjše vrednosti naročila. 
+2. V Mediaservis spletni trgovini je z namenom lažjega nadzorovanja zaloge blaga omejen nakup, in sicer lahko v okviru enega spletnega naročila kupite: 
+•	največ štiri (4) kose enakega izdelka iz kategorije dišav oz. parfumerije;
+•	največ štirideset (40) kosov enakega izdelka iz kategorije gospodinjstva; 
+•	največ dvajset (20) kosov enakega izdelka iz vse ostale ponudbe. 
+IV. Dostava, razpoložljivost blaga
+1. Dostava je možna zgolj na območju Republike Slovenije. Stranke, ki nimajo stalnega ali začasnega prebivališča v Sloveniji, lahko navedejo naslov prodajalne, v kateri želijo prevzeti svoje naročilo. Če želite uporabiti naslov tretje osebe, potrebujete njeno pisno pooblastilo, da njene podatke lahko posredujete Mediaservis-u. 
+2. Naročila lahko oddajajo samo prebivalci držav članic Evropskega gospodarskega prostora in Švice ali osebe, ki imajo (stalno/začasno) prebivališče v državah Evropskega gospodarskega prostora in v Švici. 
+3. Na voljo so naslednje možnosti dostave: 
+a. standardna dostava na naslov stranke preko našega pogodbenega partnerja za dostavo pošiljk; 
+b. standardna dostava na naslov izbrane Mediaservis prodajalne preko našega pogodbenega partnerja za dostavo pošiljk; 
+c. standardna dostava na prevzemne točke našega pogodbenega partnerja za dostavo pošiljk; 
+d. storitev Hitri prevzem v izbrani Mediaservis prodajalni. 
+Strošek dostave je naveden spodaj pod točko VII. 
+4. Kot način dostave lahko izberete storitev Hitri prevzem v kateri koli Mediaservis prodajalni v Sloveniji, če so izbrani izdelki na voljo v tej prodajalni. To je vidno že pri nakupovanju v spletni trgovini, stranka pa to lahko naknadno preveri tudi v košarici. Če pri določenem izdelku ni zagotovo, da je dobavljiv, je navedeno, da izdelek morda v trenutku obdelave naročila ne bo na voljo. Naročilo s Hitrim prevzemom je v roku 60 minut (oziroma 90 ali 180 minut) pripravljeno za prevzem v izbrani Mediaservis prodajalni. Čas obdelave/priprave naročila, tj. 60 minut (oziroma 90 ali 120 minut), velja med delovnim časom prodajalne. Prevzem naročila je možen le med delovnim časom prodajalne.
+5. Čas standardne dostave je 1–3 delovne dni (to ne velja za storitev Hitri prevzem). Kot delovni dnevi se štejejo vsi dnevi od ponedeljka do petka z izjemo državnih praznikov. Naročila, oddana med vikendi in prazniki oz. dela prostimi dnevi, se začnejo obdelovati prvi delovni dan. Rok za dostavo začne teči, ko je naročilo potrjeno s strani Mediaservis-a oz. je sklenjena kupoprodajna pogodba med Mediaservis-om in stranko. V primeru nakazila na transakcijski račun Mediaservis-a začne rok teči, ko je plačilo knjiženo pri Mediaservis-u. 
+Dostavni rok se konča po preteku zadnjega predvidenega dneva dostave. Če je zadnji dan dostave sobota, nedelja ali državni praznik, se zadnji dan dostave prestavi na prvi delovni dan. Če bo prišlo do zamude pri dostavi vašega naročila, boste o tem nemudoma obveščeni.
+6. Fotografije izdelkov v spletni trgovini so simbolične in ne zagotavljajo lastnosti izdelka. Barvni odtenki in videz izdelkov lahko odstopajo od dejanskega stanja izdelkov, kar pa ne vpliva na opredelitev in standard izdelkov. Mediaservis ne sprejema odgovornosti za morebitne minimalne razlike med izdelki in prikazom v spletni trgovini. Možne so napake v besedilih in zanje Mediaservis ne prevzema odgovornosti, kar pa ne vpliva na zakonske pravice potrošnika. 
+7. Naročite lahko le izdelke, ki so dobavljivi. Če bi se po prejemu vašega naročila izkazalo, da kateri koli izmed naročenih izdelkov ni več dobavljiv, bo to navedeno v elektronskem sporočilu, s katerim vas bomo obvestili, da je bilo vaše naročilo odposlano. Če ste naročili samo izdelek, ki ni dobavljiv, bo vaše naročilo preklicano. Če ste naročili več izdelkov, vam bomo v primeru, da bodo nedobavljivi izdelki kmalu ponovno na voljo, poslali le delno pošiljko oz. del izdelkov iz naročila. Mediaservis ima tudi v primeru, da vam bo dostavljen le del naročila, pravico dostopati do vaših podatkov, tj. naslova, navedenega pri oddaji naročila. Nedobavljive izdelke vam bomo naknadno dostavili brezplačno (stroške dostave krije Mediaservis). Izdelki, ki ne bodo kmalu na voljo, bodo preklicani. Če ste te izdelke že plačali, vam bomo vrnili kupnino. 
+8. Ko bo naročilo odposlano na vaš naslov oz. v izbrano Mediaservis prodajalno, boste prejeli povezavo za sledenje pošiljki. Če ste za prevzemno mesto izbrali Mediaservis prodajalno, boste po elektronski pošti prejeli tudi obvestilo, ko bo pošiljka pripravljena za prevzem. Vaše naročilo bo štirinajst (14) delovnih dni čakalo na prevzem v izbrani prodajalni. Če ste pri oddaji naročila izbrali storitev Hitri prevzem v Mediaservis prodajalni, vas bomo z elektronskim sporočilom obvestili, ko bo vaše naročilo pripravljeno za prevzem. Vaše naročilo vas bo štirinajst (14) delovnih dni čakalo v izbrani prodajalni. Če v tem času naročila ne boste prevzeli, si pridržujemo pravico, da ga prekličemo. Za že opravljeno plačilo vam bomo vrnili kupnino. 
+9. Pri načinu plačila s storitvijo Paypal, dostavi v izbrano Mediaservis prodajalno ali Hitrem prevzemu v izbrani Mediaservis prodajalni velja naslednje: stranka ali oseba, ki jo je stranka pooblastila, mora ob prevzemu predložiti elektronsko sporočilo s podatki za prevzem. Pooblaščena oseba mora ob prevzemu predložiti ustrezno pooblastilo stranke ali elektronsko sporočilo s podatki za prevzem, ki ga je poslalo podjetje Mediaservis, in v katerem je navedeno, da je naročilo prispelo v izbrano Mediaservis prodajalno za prevzem. Mediaservis si pridržuje pravico, da preveri identiteto stranke ali pooblaščene osebe (z osebnim dokumentom s fotografijo). Poleg tega se ob predaji blaga izda dokazilo o opravljeni dostavi, ki vsebuje datum in čas prevzema, predano blago in ceno ter podpis. 
+10. Odgovornost za izgubo ali poškodbo (delne) dostave naročila nosi Mediaservis. Le-ta preide z Mediaservis-a na vas, ko blago fizično prejmete ali ko blago fizično prejme tretja oseba, ki ni prevoznik in jo v ta namen imenujete vi. 
+V. Zagotavljanje informacij o živilih 
+1. Mediaservis je kot lastnik spletne trgovine odgovoren za zagotavljanje obveznih informacij o živilih pred zaključkom nakupa.
+2. Pred zaključkom nakupa Mediaservis poskrbi, da so vam na voljo vse obvezne informacije o živilih razen datuma minimalnega trajanja ali datuma uporabe. Opredelitev obveznih informacij o živilih vključuje vse informacije, ki morajo biti zagotovljene potrošniku v skladu z zakonodajo EU in slovensko zakonodajo. Ob dobavi blaga Mediaservis poskrbi, da so vam na voljo vsi obvezni podatki (vključno z datumom minimalnega trajanja ali datumom uporabe).
+3. Sami ste odgovorni, da informacije o alergenih vedno preverite ob prevzemu živil, saj se njihove sestavine v smislu vsebnosti alergenov lahko spremenijo.
+VI. Izjava glede prehranskih in zdravstvenih trditev pri opisih izdelkov 
+1. Vse informacije na straneh spletne trgovine so zgolj informativnega značaja in nikakor niso nadomestilo za nasvete zdravnika ali drugega zdravstvenega osebja, prav tako ne morejo biti nadomestilo za ustrezno zdravstveno pomoč.
+2. Izdelki in trditve o posameznih izdelkih v spletni trgovini niso bili ocenjeni s strani pristojnih institucij in niso namenjeni za zdravljenje ali preprečevanje bolezni.
+3. Besedilni opisi posameznega izdelka so zgolj informativne narave in niso bili potrjeni s strani Evropske agencije za varnost hrane (EFSA).
+VII. Cene in strošek dostave 
+1. Vse cene vsebujejo DDV. Cene v spletni trgovini se lahko razlikujejo od cen v fizičnih Mediaservis prodajalnah. Cene veljajo v trenutku oddaje naročila.
+2. Glede na vrednost naročila vam bo zaračunan naslednji strošek dostave oz. storitve:
+a. do vključno zneska 49 EUR znaša strošek standardne dostave 3,5 EUR;
+b. pri nakupu nad 49 EUR (pred morebitnimi upoštevanimi popusti) je dostava za registrirane stranke brezplačna. V primeru absolutnega popusta, s katerim pade nakupna vrednost pod 49 EUR, se upošteva znesek brez danega popusta.
+c. Strošek storitve Hitrega prevzema znaša 1,50 EUR. Za registrirane stranke z Mediaservis profilom je storitev brezplačna.
 
-# Terms and Conditions
+3. Upoštevajte, da Hitri prevzem morda v posameznih prodajalnah občasno zaradi premajhnih zalog ni mogoč.
+4. Če pride do preklica celotnega naročila, vam že plačan strošek dostave/strošek storitve vrnemo. Če boste vrnili le del izdelkov iz naročila, vam stroška dostave/stroška storitve ne vrnemo. Če ste izdelke že plačali, vam bomo vrnili kupnino. Več informacij si lahko preberete pod točko XII.
+5. V primeru vračila blaga krijete strošek pošiljanja, lahko pa ga brezplačno odnesete v Mediaservis prodajalno.
+VIII. Načini plačila
+1. Mediaservis vam načeloma ponuja naslednje možnosti plačila: 
 
-_Last updated_: January 06, 2023
+a. z debetno oziroma kreditno kartico (Maestro, Visa Electron, Visa, Mastercard),
+b. z nakazilom na transakcijski račun Sirsa d.o.o., SI56 6100 0000 7410 371, odprt pri Delavska hranilnica d. d. ;
+c. z gotovino po povzetju,
+d. s storitvijo Apple Pay.
+e. s storitvijo PayPal,
+f. z darilno kartico.
+Unovčevanje točk pri nakupovanju v spletni trgovini ni mogoče. Pri vsakem naročilu si pridržujemo pravico, da določenih načinov plačila ne ponudimo in vas usmerimo na druge možnosti plačila. Ta postopek poteka samodejno. Če se s predlaganim načinom plačila ne strinjate, nam lahko pišete na naslov: sirsa d.o.o Ulica tolminskih puntarjev 4, 5000 Nova Gorica, Slovenija, s pripisom »DPO«. Pristojni oddelek bo obravnaval vaš ugovor in preveril predlagan način plačila.
+2. 
+a.) Posebnosti pri plačevanju s kreditnimi in debetnimi karticami 
+Plačila z debetnimi oziroma kreditnimi karticami (Maestro, Visa Electron, Visa, Mastercard) se skladno z varnostnimi standardi vršijo preko plačilnih partnerjev. Z varnostnimi mehanizmi »Verified by Visa« in »MasterCard Secure Code« je spletno plačevanje s kreditnimi karticami zelo varno, saj je za uspešen zaključek plačila treba vpisati enkratno generirano varnostno kodo. Prosimo, sledite navodilom, da boste naročilo uspešno oddali.
+b.) Posebnosti pri nakazilu na transakcijski račun 
+Če izberete možnost plačila z nakazilom na transakcijski račun, boste po elektronski pošti prejeli podatke za plačilo.
+c.) Posebnosti pri plačilu po povzetju 
+Plačilo po povzetju je možno samo z gotovino. Po povzetju kupnine ne morete plačati z debetno ali kreditno kartico. Izjema pri tem so naročila, ki jih prevzamete na točkah pogodbenega partnerja za dostavo pošiljk.
 
-Please read these terms and conditions carefully before using Our Service.
+d.) Posebnosti pri plačevanju s storitvijo Apple Pay 
+Če želite plačevati s storitvijo Apple Pay, morate na napravah Apple (iPhonu, iPadu ali Macu) uporabljati brskalnik Safari. Poleg tega potrebujete uporabniški račun Apple in kreditno kartico. Ko imate to urejeno, lahko naročila na Mediaservis.si plačujete s storitvijo Apple Pay. Pri tem načinu plačevanja morate potrditi svoje plačilo. Za natančnejše informacije si preberite pogoje uporabe družbe Apple.
+e.) Posebnosti pri plačevanju s storitvijo PayPal 
+Za plačilo s storitvijo PayPal je potreben račun PayPal, v katerem stranka potrdi plačilo. PayPal lahko opravi preverjanje kreditne sposobnosti, za kar lahko uporabi tudi dostavne podatke. Za več podrobnosti si oglejte pogoje storitve PayPal.
+f.) Posebnosti pri plačevanju z Mediaservis darilno kartico 
+Naročilo lahko v celoti ali delno plačate z Mediaservis darilno kartico. Za eno naročilo lahko uporabite tudi več Mediaservis darilnih kartic. Za unovčenje Mediaservis darilne kartice sta pri postopku plačila potrebna odtisnjena številka kartice in koda. V primeru vračila naročila, bodisi delno bodisi v celoti, vam bo znesek povrnjen na katero koli plačilno sredstvo, ki je bilo uporabljeno poleg Mediaservis darilne kartice, znesek, plačan z Mediaservis darilno kartico, pa bo povrnjen v obliki nove digitalne darilne kartice. Ta bo poslana na e-poštni naslov, shranjen v uporabniškem računu.
 
-## Interpretation and Definitions
+Če imate kakršna koli vprašanja glede načinov plačila, se obrnite na naš Center za pomoč, ki vam je na voljo od ponedeljka do petka od 9. do 14. ure, uporabite kontaktni obrazec na naši spletni strani.
+3. Če zamujate s plačilom, boste na letni ravni morali plačati zakonske zamudne obresti, poleg tega smo upravičeni do plačila stroškov, uporabljenih za namene izvensodnih ukrepov za izvršbo in vračilo dolga v ustrezni višini. Če za izvedbo teh ukrepov pooblastimo družbo za izterjavo dolgov ali odvetnika, se vam obračunajo stroški storitev po tarifi, veljavni v času, ko sta družba ali odvetnik opravljala svoje delo. Če moramo za potrebe izterjave dolga preveriti vaš naslov, tudi pri tem nastale stroške krijete sami. 
+4. Potrošnik ima pravico pobotati obveznost do Mediaservis-a s svojo nasprotno terjatvijo, če je ta pravnomočno ugotovljena, če je priznana s strani Mediaservis-a ali če izhaja iz istega pravnega razmerja.
+IX. Izdaja računa
+1. Izdan vam bo samo elektronski račun/dobropis.
+2. Elektronskemu sporočilu, s katerim vas bomo obvestili, da je bilo vaše naročilo odposlano, bo priložen račun v formatu PDF. Če ste izbrali storitev Hitri prevzem, boste dobili ločeno elektronsko sporočilo, ki mu bo dodan račun. Račun boste prejeli posebej za vsako naročilo in za vsako odpremo znotraj enega naročila. Če imate registriran Mediaservis profil, bodo vaši računi shranjeni tudi tam.
+3. Na računu so razčlenjeni cena in vsi stroški v zvezi z nakupom.
+ 
+4. Dolžni ste preveriti pravilnost podatkov pred oddajo naročila. Kasneje podanih ugovorov glede pravilnosti izdanih računov ne upoštevamo.
+X. Zakonske pravice potrošnika: odgovornost za stvarne napake 
+1. Zakonske pravice potrošnika v primeru stvarne napake so za vse izdelke, ki so na voljo v spletni trgovini, določene z Zakonom o varstvu potrošnikov (Uradni list RS, št. 98/04 – uradno prečiščeno besedilo z vsemi kasnejšimi spremembami) in v Obligacijskem zakoniku (Uradni list RS, št. 97/07 – uradno prečiščeno besedilo, 64/16 – odl. US in 20/18 – OROZ631).
+2. Napaka je stvarna, če:
+•	izdelek nima lastnosti, ki so potrebne za njegovo normalno rabo ali za promet;
+•	izdelek nima lastnosti in odlik, ki so bile izrecno ali molče dogovorjene oziroma predpisane;
+•	je Mediaservis izročil izdelek, ki se ne ujema z vzorcem ali modelom, razen če je bil vzorec ali model pokazan le zaradi obvestila.
+Šteje se, da je napaka na stvari obstajala že v času izročitve, če se pojavi v roku šest mesecev od izročitve. Prodajalec ne odgovarja za stvarne napake na blagu, ki se pokažejo potem, ko mineta dve leti, odkar je bila stvar izročena.
+O morebitni stvarni napaki morate skupaj z natančnim opisom le-te obvestiti Mediaservis v zakonsko določenem roku, tj. v roku dveh mesecev od odkritja napake, in Mediaservis-u omogočiti pregled izdelka. Obrazec za prijavo stvarne napake je v prilogi.
+3. Potrošnik, ki je pravilno obvestil prodajalca o napaki, ima pravico od prodajalca zahtevati, da:
+(i) odpravi napako na blagu ali
+(ii) vrne del plačanega zneska v sorazmerju z napako ali
+(iii) blago z napako zamenja z novim brezhibnim blagom ali
+(iv) vrne plačani znesek.
+Če zamenjava izdelka ali odprava napake nista mogoči (ni izvedljivo, prevelik strošek, ni smiselno, ne bo pravočasno dostavljeno itd.), ima potrošnik pravico do vrnitve dela plačanega zneska v sorazmerju z napako. Neznatna stvarna napaka se ne upošteva.
+4. Fotografije izdelkov lahko odstopajo od dejanskega stanja dostavljenih izdelkov. Predvsem pri novostih v prodajnem programu lahko pride do večjih sprememb na embalažah izdelkov. Taka odstopanja se ne štejejo za stvarne napake.
+5. Potrošnik ne more uveljavljati svojih zakonskih pravic z naslova stvarne napake, če so stvarne napake neznatne in ne vplivajo na rabo oz. običajne lastnosti izdelka ter izdelek še vedno lahko uporablja skladno z opisom.
+6. Če izdelek vrnete zaradi stvarne napake, stroške vračila krije Mediaservis. 
+7. V vseh primerih, ko uveljavljate svoje pravice zaradi stvarne napake, prosimo uporabite tudi kontaktni obrazec na naši spletni strani.
+8. Pravice potrošnika iz tega člena ugasnejo, ko potečeta dve leti od dneva, ko je o stvarni napaki obvestil Mediaservis.
+9. Mediaservis pisno odgovori potrošniku na zahtevo najpozneje v osmih (8) dneh po njenem prejemu, če je obstoj napake na blagu oziroma nepravilnost pri opravljeni storitvi sporna. Če obstoj napake na blagu oziroma nepravilnost pri opravljeni storitvi ni sporna, mora Mediaservis čim prej, vendar najpozneje v roku osmih (8) dni ugoditi potrošnikovi zahtevi.
+XI. Odgovornost za izdelek / garancija 
+1. Potrošnik ima pravico do pravnega varstva skladno z zakonskimi določbami. Potrošnik ima tudi pravice iz naslova odgovornosti za izdelek skladno z Zakonom o varstvu potrošnikov (Uradni list RS, št. 98/04 – uradno prečiščeno besedilo z vsemi kasnejšimi spremembami). V skladu s splošnimi pravili o odgovornosti za škodo in s pravilom o odgovornosti proizvajalca za stvari z napako je dolžan proizvajalec izdelka, kadar napaka na izdelku povzroči smrt, telesno poškodbo ali okvaro zdravja človeka ali kadar zaradi napake na izdelku nastane škoda na drugi stvari, povrniti nastalo škodo. Proizvajalec je dolžan povrniti tudi škodo na drugi stvari, če je poškodovana stvar običajno namenjena za zasebno uporabo in jo je oškodovanec pretežno uporabljal za zasebno uporabo, pri čemer znaša soudeležba oškodovanca pri škodi 500 EUR. Če proizvajalca izdelka ali uvoznika ni mogoče ugotoviti, se za proizvajalca šteje Mediaservis, razen če v razumnem roku oškodovanca obvesti o tem, kdo je proizvajalec oziroma uvoznik, ali katera oseba mu je izdelek dobavila.
+2. Izdelki imajo garancijo, če je tako navedeno na garancijskem listu. Garancija je veljavna ob upoštevanju navodil na garancijskem listu ter ob predložitvi računa. Garancijski roki so navedeni na garancijskih listih. Če vam Mediaservis kot prodajalec nekega aparata ali drugega preMediaserviseta, ki sodi med tako imenovano tehnično blago, izroči garancijski list, s katerim proizvajalec jamči za brezhibno delovanje stvari v določenem času, šteto od izročitve, stvar pa ne deluje brezhibno, lahko v garancijskem roku zahtevate tako od Mediaservis-a kot tudi od proizvajalca, da ga v primernem roku popravi ali, če tega ne stori, da vam namesto njega izroči stvar, ki brezhibno deluje.
+3. Garancijo lahko uveljavljate tudi neposredno pri proizvajalcu ali njegovem pooblaščenem serviserju. Garancijo lahko uveljavljate z garancijskim listom in računom prodajalca.
+4. Upoštevajte vsa priložena opozorila in opozorila na embalažah izdelkov. Jamstvo Mediaservis-a je izključeno, če z izdelki ne ravnate oz. jih ne uporabljate skladno z navodili.
+XII. Pravica do odstopa od pogodbe (preklic naročila)
+i. Če želite preklicati naročilo po tem, ko ste ga že oddali, a še ni bilo odpremljeno:
+1. Ta oblika preklica je možna samo, če želite preklicati celotno naročilo. Dodajanje ali preklic posameznih postavk naročila nista možna.
+2. Če ste naročilo oddali kot gost: Če želite pred pošiljanjem blaga preklicati celotno naročilo, se s pomočjo kontaktnega obrazca obrnite na Center za pomoč uporabnikom. Zaradi avtomatizirane obdelave naročil je možno preklicati vaše naročilo le do določenega trenutka. Če vašega naročila ni več mogoče preklicati, imate pravico do odstopa od pogodbe tudi po dostavi blaga.
+3. Če ste naročilo opravili kot registrirana stranka in imate Mediaservis profil: V Mediaservis profilu imate možnost preveriti status svojega naročila v razdelku »Moja naročila«. Naročila s statusom »V teku« je mogoče samodejno preklicati z zahtevo za preklic (storno). O uspešno obdelani zahtevi za preklic (storno) naročila, vas bomo obvestili po elektronski pošti. V primeru zahteve za preklic, ki je ne bo več možno izvesti, pa boste po e-pošti prejeli potrdilo o odposlanem naročilu. Če vašega naročila ni več mogoče preklicati, imate po dostavi blaga še vedno pravico do odstopa od pogodbe.
+ii. Preklic naročila po odpremi blaga:
+1. V roku štirinajstih (14) dni lahko odstopite od pogodbe, ne da bi vam bilo treba navesti razlog za svojo odločitev.
+2. 14-dnevni rok začne teči na dan, ko ste vi ali tretja oseba prevzeli naročilo. Pri delnih dostavah začne rok teči po prejemu zadnje dostave. Če ste izbrali storitev Hitri prevzem, začne rok teči na dan prevzema blaga v izbrani Mediaservis prodajalni. Za pravočasen odstop zadošča, če v štirinajstih (14) dneh pošljete izjavo za odstop od pogodbe na daljavo.
+3. Če ste registrirani v naši spletni trgovini, lahko odstop od pogodbe za posamezno naročilo sprožite v svojem Mediaservis profilu ali preko Centra za pomoč uporabnikom. Če nakupujete kot gost, pa samo preko Centra za pomoč uporabnikom. Obrazec za odstop od pogodbe vam je na voljo v vašem Mediaservis profilu. Če boste poklicali Center za pomoč uporabnikom ali uporabili kontaktni obrazec na naši spletni strani, boste obrazec prejeli po elektronski pošti.
+4. Mediaservis lahko odstopi od pogodbe, če je prišlo do tehnične napake ali je bila izdelku dodeljena očitno napačna cena.
+XIII. Posledice odstopa od pogodbe
+1. Če pogodbo v celoti prekličete, vam bomo za vsa že opravljena plačila vrnili kupnino (vklj. s stroškom dostave oz. stroškom storitve), in sicer najkasneje v roku štirinajstih (14) dni od prejema obvestila o odstopu od pogodbe. Če boste preklicali le del naročila, vam stroška dostave oz. storitve ne bomo vrnili. Kupnino vam bomo vrnili na plačilno sredstvo, s katerim ste opravili nakup, razen če je bilo izrecno dogovorjeno drugače. Če ste za opravljen nakup izbrali plačilo po povzetju, navedete podatke svojega bančnega računa, na katerega vam bomo nakazali kupnino. V nobenem primeru vam storitve vračila kupnine ne bomo zaračunali. 
+2. Vračilo kupnine lahko zavrnemo, dokler ne prejmemo izdelkov oz. dokler nam ne boste predložili dokaza, da ste blago res poslali nazaj. Povratnico pošiljke ali potrdilo o vračilu izdelka v prodajalno shranite, če bi morali dokazati, da ste blago res vrnili.
+3. Nemudoma oz. najkasneje v štirinajstih (14) dneh po tem, ko ste nas obvestili o odstopu od naročila, nam morate poslati oz. predati blago (lahko ga pošljete na naslov: Sirsa d.o.o., Ulica tolminskih puntarjev 4, 5000 Nova Gorica, Slovenija, s pripisom »za spletno trgovino« ali ga odnesete v Mediaservis prodajalno). Prosimo, držite se roka. Če bodo izdelki vrnjeni na naš naslov, vračilo pa ne bo izvedeno skladno s temi splošnimi pogoji, s katerimi je določena pravica do odstopa od pogodbe, jih ne moremo sprejeti. Morebitne dodatne stroške, ki v takem primeru nastanejo zaradi vračila ali ponovnega pošiljanja, krijete sami. 
 
-### Interpretation
+4. Edini strošek, ki vas bremeni v zvezi z odstopom od pogodbe, je strošek pošiljanja izdelkov. V primeru osebnega vračila izdelkov v Mediaservis prodajalno nimate nikakršnih stroškov.
+5. Če se je izdelku zmanjšala vrednost (drugačna kakovost, lastnosti ali uporaba) zaradi vašega neustreznega ravnanja z njim, boste morali izdelek plačati in vam že plačana kupnina zanj ne bo vrnjena.
+6. Dodatne informacije o vračilu najdete tukaj.
+XIV. Izključitev pravice do odstopa od pogodbe
+1. Potrošnik nima pravice do odstopa od pogodbe pri pogodbah:
+•	o dobavi zapečatenega blaga, ki ni primerno za vračilo zaradi varovanja zdravja ali higienskih vzrokov, če je potrošnik po dostavi odprl pečat;
+•	pri nakupu hrane, če je embalaža odprta ali poškodovana;
+•	o blagu ali storitvah, katerih cena je odvisna od nihanj na trgih, na katera podjetje nima vpliva in ki lahko nastopijo v roku odstopa od pogodbe;
+•	o blagu, ki je izdelano po natančnih navodilih potrošnika in prilagojeno njegovim osebnim potrebam;
+•	o blagu, ki zaradi svoje narave ni primerno za vračilo, je hitro pokvarljivo ali mu hitro preteče rok uporabe;
+•	o dobavi zapečatenih avdio- ali videoposnetkov in računalniških programov, če je potrošnik po dostavi odprl varnostni pečat;
+•	o dobavi blaga, ki je zaradi svoje narave neločljivo pomešano z drugimi predmeti;
+•	o dobavi digitalne vsebine, ki se ne dostavi na otipljivem nosilcu podatkov, če se je opravljanje storitve začelo na podlagi potrošnikovega izrecnega predhodnega soglasja in s privolitvijo.
+2. Prejet izdelek mora potrošnik vrniti nepoškodovan in v nespremenjeni količini, razen če je izdelek uničen, pokvarjen, izgubljen ali se je njegova količina zmanjšala, ne da bi bil za to kriv potrošnik. Potrošnik izdelkov po odstopu od pogodbe ne sme uporabljati.
+3. Potrošnik sme opraviti ogled in preizkus izdelkov v obsegu, kot je to nujno potrebno za ugotovitev dejanskega stanja izdelka. Potrošnik odgovarja za zmanjšanje vrednosti blaga, če je zmanjšanje posledica ravnanja, ki ni nujno potrebno za ugotovitev narave, lastnosti in delovanje blaga.
+XV. Varnost nakupa 
+1. Mediaservis uporablja ustrezne tehnologije in organizacijska sredstva za zaščito prenosa in shranjevanja osebnih podatkov ter plačil.
+2. Za varne avtorizacije in transakcije s kreditnimi karticami skrbita Mediaservis in podjetje Computop Wirtrschatfsinformatik GmbH. Avtorizacije kreditnih kartic se vršijo v realnem času s takojšnjim preverjanjem podatkov pri bankah. Podatki o karticah se ne shranjujejo na strežniku Mediaservis-a.
+XVI. Ocene, mnenja in priporočila
+1. Mnenja, ocene in priporočila, ki jih stranke spletne trgovine napišete v zvezi s posameznim izdelkom, so del funkcionalnosti spletne trgovine in so namenjeni skupnosti vseh uporabnikov.
+2. Mediaservis omogoča, da oceno oz. mnenje napiše kateri koli uporabnik spletne trgovine, pred objavo pa mnenje pregleda redakcija Mediaservis spletne trgovine. Mediaservis ne bo objavil mnenj oziroma prispevkov, ki so kakor koli žaljivi, neprimerni ali ki po oceni Mediaservis-a ne nudijo koristi drugim uporabnikom in obiskovalcem.
+3. Z oddajo ocene ali komentarja se uporabnik izrecno strinja s pogoji uporabe njegove ocene ali komentarja in Mediaservis-u dovoljuje objavo dela ali celotnega besedila v vseh elektronskih in drugih medijih. Mediaservis ima pravico vsebino ocene ali komentarja uporabljati časovno neomejeno in za kateri koli namen, ki je v poslovnem interesu Mediaservis-a, vključno z objavo v oglasih ali drugih marketinških komunikacijah. Avtor ocene hkrati izjavlja in zagotavlja, da je lastnik materialnih in moralnih avtorskih pravic za napisano oceno in komentarje ter da materialne pravice neizključno in časovno neomejeno prenaša na Mediaservis.
+4. Mediaservis ne odgovarja za vsebino ocen izdelkov, ki jih napišejo uporabniki. Mediaservis prav tako ne odgovarja za informacije v mnenjih in se omejuje od kakršne koli odgovornosti, ki izvira iz podanih informacij v mnenjih oz. ocenah.
+XVII. Pravno obvestilo 
+1. Mediaservis spletna trgovina in vsi objavljeni podatki, fotografije izdelkov, grafični in video elementi na spletni strani so zaščiteni in jih ni dovoljeno reproducirati ali uporabljati brez predhodnega pisnega dovoljenja Mediaservis-a.
+XVIII. Omejitev odgovornosti
+1. Mediaservis si po svojih najboljših močeh trudi zagotoviti ažurnost in pravilnost podatkov, ki so objavljeni v spletni trgovini. Ponudba izdelkov se zaradi narave poslovanja preko spleta posodablja in spreminja pogosto ter hitro. Ponudnik si za predstavitev osnovnih značilnosti prodajnih izdelkov, ki so navedene na embalaži izdelka, prizadeva zagotoviti jasne in popolne informacije. Živilski izdelki se nenehno preoblikujejo, tako da se vsebina in sestavine izdelka lahko spremenijo. V Mediaservis spletni trgovini se trudimo, da so informacije o izdelkih čim bolj natančne in se ves čas osvežujejo. Lahko se zgodi, da se nekatere obvezne informacije, kot so poreklo, seznam sestavin, označba hranilne vrednosti, naziv nosilca dejavnosti in druge informacije, občasno spremenijo. Na izdelku, ki ga boste prejeli, so navedeni vsi obvezni podatki. Priporočamo vam, da pred uporabo oz. uživanjem izdelka vedno skrbno preberete informacije, ki jih na embalaži izdelka ali etiketi z deklaracijo zagotavljajo proizvajalci izdelkov.
+2. Vse fotografije so zgolj simbolične in ne zagotavljajo lastnosti izdelka. Barvni odtenki in videz izdelkov lahko odstopajo od dejanskega stanja izdelkov, kar pa ne vpliva na opredelitev in standard izdelka. Ponudnik ne sprejema odgovornosti za morebitne minimalne razlike med izdelki in prikaz v spletni trgovini. Možne so tekstovne napake in zanje ponudnik ne prevzema odgovornosti, kar pa ne vpliva na zakonske pravice kupca.
+3. Mediaservis ima možnost odstopa od pogodbe, če se ugotovi očitna napaka pri sklenitvi pogodbe (46. člen OZ). Kot očitna napaka se šteje napaka v bistvenih lastnostih izdelka in vse zmote, ki se po običajih v trgovini ali po namenu strank štejejo za odločilne ter jih Mediaservis v primeru vednosti ne bi potrdil oziroma sklenil pogodbe. To vključuje tudi očitne napake v ceni.
+4. Mediaservis si pridržuje pravico onemogočiti spletno stran ali onemogočiti dostop do nje zaradi tehničnih ali drugih težav in vzdrževanja, kar pomeni tudi onemogočenje ali oviro za uporabo spletne trgovine. V primeru tehničnih težav na spletni strani si Mediaservis pridržuje pravico preklicati oddana naročila, če so bila prizadeta s tehnično napako. V primeru preklica naročila vas bo Mediaservis o tem obvestil v najkrajšem možnem času in vas seznanil z nadaljnjimi koraki in možnostmi.
+5. Pred dostopom in uporabo spletne strani si morate zagotoviti ustrezno protivirusno zaščito programske opreme. Zagotoviti morate ustrezno varnost in zaupnost tistih podatkov, ki se uporabljajo za prijavo na spletni strani (elektronski naslov, geslo).
+XIX. Pritožbe in spori 
+1. Prizadevamo si, da morebitne spore rešimo sporazumno. Če z našo ponudbo niste zadovoljni, nam lahko pritožbo uporabite kontaktni obrazec na naši spletni strani.
+2. Pravica do pritožbe/reševanja sporov velja samo za potrošnike. 
+3. Mediaservis v skladu s četrtim odstavkom 32. člena ZlsRPS objavlja tudi elektronsko povezavo na evropsko platformo za spletno reševanje potrošniških sporov: https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=SL
+Le-ta evropskim potrošnikom daje možnost, da spore, ki izvirajo iz spletne prodaje ali spletnih storitev med potrošnikom s prebivališčem in ponudnikom s sedežem v Evropski uniji, skušajo najprej razrešiti brez vpletanja sodišča. 
+XX. Program Mediaservis abi 
+1. Kot član programa Mediaservis abi imate z nakupom v spletni trgovini možnost zbiranja točk in unovčevanja spletnih kuponov. Kupone lahko unovčite, če jih prej aktivirate, in sicer to lahko storite na payback.at/si, na Mediaservis.si/services/program-za- stranke/activebeauty ali v Mediaservis abi aplikaciji. Večkratne točke lahko zbirate le, če ste si ustvarili Mediaservis profil in ste med nakupom vanj prijavljeni.
+2. Pri zbiranju točk se zbirajo in posredujejo za to potrebni podatki. Prosimo, upoštevajte Informacije o varstvu osebnih podatkov podjetja Payback.
+3. Točke bomo vaši Mediaservis abi kartici pripisali, ko bo vaše naročilo odposlano. Vendar pa so pripisane točke unovčljive šele po 30 dneh, razen če ste uveljavljali pravico do odstopa skladno s temi splošnimi pogoji poslovanja. V tem primeru bodo zbrane točke ponovno preklicane.
+4. V splošnem veljajo Pogoji za sodelovanje v programu zvestobe abi in Informacije o varstvu osebnih podatkov podjetja PAYBACK. 
+XXI. Ostala določila
+Baterij in akumulatorjev ni dovoljeno odlagati med gospodinjske odpadke. Zakonsko ste dolžni vse odpadne baterije in akumulatorje odstraniti v skladu z nacionalnimi predpisi. Odpadne baterije lahko vsebujejo nevarne snovi, ki z neustreznim shranjevanjem ali odstranjevanjem lahko škodujejo zdravju ljudi in okolju. Po uporabi baterije lahko npr. brezplačno odnesete na prevzemna mesta v prodajalnah ali jih oddate v zbirnih centrih. 
+Na prodajnih mestih lahko oddate le količino odpadnih baterij, ki je običajna za končnega uporabnika, poleg tega lahko v naših prodajalnah oddate samo baterije, ki jih imamo oz. smo jih imeli v prodajnem programu. 
+ 
+Baterije, ki vsebujejo nevarne snovi, so označene z enim od zgoraj navedenih simbolov – prečrtan smetnjak in pod njim kemijski simbol (Hg, Pb ali Cd) težke kovine, ki igra odločilno vlogo za razvrstitev med nevarne baterije. Baterij in akumulatorjev s takim simbolom ne smete odložiti med gospodinjske odpadke. 
+•	Hg: baterija vsebuje več kot 0,0005 % živega srebra. 
+•	Pb: baterija vsebuje več kot 0,004 % svinca. 
+•	Cd: baterija vsebuje več kot 0,002 % kadmija. 
+Skladno z evropsko zakonodajo električne in elektronske opreme ne smete odlagati med gospodinjske odpadke. Prosimo, da električne in elektronske naprave, ki imajo v navodilih za uporabo ali na embalaži naveden spodnji simbol, po koncu uporabe/delovanja, odnesete v javne zbirne centre ali jih vrnete v prodajalno. 
+ 
+XXII. Varstvo podatkov 
+Glede varstva podatkov upoštevajte naše Informacije o varstvu osebnih podatkov (obvestilo posameznikom glede obdelave osebnih podatkov).
+XXIII. Veljavna zakonodaja in sodna pristojnost 
+Pri presoji teh splošnih pogojev se uporablja pravo Republike Slovenije ob izključitvi 
+Konvencije Združenih narodov o pogodbah o mednarodni prodaji blaga (United Nations Convention on Contracts for the International Sale of Goods). 
+Če ima potrošnik stalno ali začasno prebivališče v Sloveniji oz. je v Sloveniji zaposlen, je za vložitev tožbe zoper njega pristojno sodišče na območju, kjer ima potrošnik stalno ali začasno prebivališče oz. kjer je zaposlen. To ne velja za že obstoječe sodne spore. Za potrošnike, ki imajo stalno ali začasno bivališče v drugi državi oz. so zaposleni v drugi državi, je območje sodne pristojnosti kraj, ki so ga navedli kot naslov za dostavo na področju Republike Slovenije. 
+Nova Gorica, oktober 2024
+Cene so navedene v evrih ter že vsebujejo davek na dodano vrednost – DDV. 
+ni vključen v ceno izdelkov.(§) Za to postavko popust ne velja.(&) Dostava v Mediaservis prodajalno ni možna.(#) Za ta izdelek ne prejmete abi točk.
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
-
-### Definitions
-
-For the purposes of these Terms and Conditions:
-
-- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-
-- **Country** refers to: California, United States
-
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Qwind LLC, 1 Cupertino, CA 95014.
-
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-
-- **Service** refers to the Website.
-
-- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement is a Demo.
-
-- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-
-- **Website** refers to Qwind, accessible from [https://qwind.pages.dev/](https://qwind.pages.dev/)
-
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
-
-## Acknowledgment
-
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
-
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
-
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
-
-You represent that you are over the age of 18\. The Company does not permit those under 18 to use the Service.
-
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
-
-## Links to Other Websites
-
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
-
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
-
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
-
-## Termination
-
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
-
-Upon termination, Your right to use the Service will cease immediately.
-
-## Limitation of Liability
-
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
-
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
-
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
-
-## "AS IS" and "AS AVAILABLE" Disclaimer
-
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
-
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
-
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
-
-## Governing Law
-
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
-
-## Disputes Resolution
-
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
-
-## For European Union (EU) Users
-
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
-
-## United States Legal Compliance
-
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-
-## Severability and Waiver
-
-### Severability
-
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-### Waiver
-
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
-
-## Translation Interpretation
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
-
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
-## Contact Us
-
-If you have any questions about these Terms and Conditions, You can contact us:
-
-- By email: somecoolemail@domain.com
