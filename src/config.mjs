@@ -1,10 +1,10 @@
 export const SITE = {
-  name: "Qwind",
+  name: "Mediaservis",
 
   title:
-    "Qwind — Free template for Qwik + Tailwind CSS to build your new website.",
+    "Mediaservis popravilo mobilnih telefonov iPhone servis tablic",
   description:
-    "Qwind is a free and ready to start template to make your website using Qwik and Tailwind CSS.",
+    "Ulica tolminskih puntarjev 4 (1. nadstropje)",
 
   origin: "https://qwind.pages.dev",
   basePathname: "/",
