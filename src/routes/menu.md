@@ -2,10 +2,10 @@
 
 ## Pages
 
-- [Services](#)
+- [Servis](#)
 - [Porfolio](#)
-- [About us](#)
-- [Terms](/terms)
-- [Privacy](/privacy)
+- [O nas](#)
+- [Pogoji poslovanja](/terms)
+- [Izjava o zasebnosti](/privacy)
 
 ## [Blog](/blog)
