@@ -1,6 +1,47 @@
+Informacije o varstvu osebnih podatkov
+
+Informacije o varstvu podatkov na sedežu podjetja, v logističnem centru, mediaservis prodajalnah in mediaservis Studiih, vključno z naročanjem na storitve po spletu in glede video nadzora najdete tukaj.
+
+Če komunicirate z nami, npr. po elektronski pošti ali preko Centra za pomoč uporabnikom, informacije glede obdelave podatkov najdete tukaj.
+
+Informacije o varstvu podatkov na družbenih omrežjih najdete tukaj.
+
+Prosimo, upoštevajte tudi informacije o varstvu podatkov na straneh, ki jih lahko prikličete z naše spletne strani mediaservis.si.
+
+Kazalo vsebine
+
+A. Upravljavec
+B. mediaservis.si in spletne storitve
+I. Splošne informacije o obisku spletnih strani
+II. Zagotavljanje spletnih strani in ustvarjanje dnevniških datotek
+III. Uporaba piškotkov in drugih tehnologij
+IV. Profil Moj mediaservis / Oddajanje naročila kot gost
+V. Komunikacija z nami in kontaktni obrazci
+VI. Program mediaservis abi
+VII. Gumbi za družbena omrežja, YouTube videoposnetki in kode QR
+VIII. Foto storitve na mediaservisfoto.si
+IX. Mediji na mediaservis.si
+X. mediaservis profil na mediaservis.si
+XI. Zaposlitev na mediaservis.si
+XII. Spletna revija na mediaservis.si
+XlII. Ostale storitve
+C. Aplikacija Moj mediaservis
+l. Splošno glede uporabe aplikacije
+ll. Shranjevanje in uporaba vaših podatkov
+III. Dostop aplikacije do vaših podatkov
+IV. Dovoljenje za uporabo kamere in mikrofona
+V. Uporaba potisnih sporočil
+VI. Sledenje (ang. Tracking)
+VII. msLIVE
+D. Kategorije prejemnikov osebnih podatkov, izvoz v tretje države
+E. Varen prenos podatkov, terminalska oprema
+F. Pravice posameznika, na katerega se nanašajo osebni podatki, in pooblaščenec za varstvo osebnih podatkov
+I. Pravice posameznika, na katerega se nanašajo osebni podatki
+II. Pooblaščenec za varstvo osebnih podatkov
+
 A. Upravljavec
 
-Podjetje sirsa d.o.o., Ulica tolminskih puntarjev 4, Nova Gorica, 5000 Nova Gorica, Slovenija (v nadaljevanju: »sirsa«) kot upravljavec v sklopu Splošne uredbe o varstvu podatkov (v nadaljnjem besedilu: »GDPR« ali »Uredba GDPR«) obravnava varstvo vaših osebnih podatkov preudarno in upošteva zakonske določbe o varstvu podatkov.
+Podjetje sirsa d.o.o., Ulica tolminskih puntarjev 4, Nova Gorica, 5000 Nova Gorica, Slovenija e-pošta: gosirsa@gmail.com (v nadaljevanju: »sirsa«) kot upravljavec v sklopu Splošne uredbe o varstvu podatkov (v nadaljnjem besedilu: »GDPR« ali »Uredba GDPR«) obravnava varstvo vaših osebnih podatkov preudarno in upošteva zakonske določbe o varstvu podatkov.
 
 B. mediaservis.si in spletne storitve
 
@@ -443,7 +484,7 @@ VI. Program mediaservis abi
 
 a. Zbiranje točk
 
-Podatke strank v okviru programa mediaservis abi obdelujemo z namenom zbiranja točk pri spletnih nakupih na mediaservis.si, če ste ročno vnesli številko mediaservis abi kartice. Če ste dodatno vključili tudi mediaservis abi storitve (tj. svoj mediaservis profil ste povezali z active beauty programom) v svojem mediaservis profilu, bo vaša active beauty številka trajno ostala v vašem mediaservis profilu.
+Podatke strank v okviru programa mediaservis abi obdelujemo z namenom zbiranja točk pri spletnih nakupih na mediaservis.si, če ste ročno vnesli številko mediaservis abi kartice. Če ste dodatno vključili tudi mediaservis abi storitve (tj. svoj mediaservis profil ste povezali z active programom) v svojem mediaservis profilu, bo vaša active številka trajno ostala v vašem mediaservis profilu.
 
 Če ste nam dali soglasje, vaše podatke z namenom, da vam pripišejo zbrane točke, posredujemo podjetju PAYBACK Austria GmbH. Vaše podatke podjetju PAYBACK posredujemo tudi za namen oglaševanja in tržnih raziskav, če ste nam s soglasjem to dovolili. Več informacij glede soglasja za oglaševanje in tržne raziskave najdete tukaj.
 
@@ -524,11 +565,11 @@ Pri prijavi na delovno mesto upoštevajte vse pravne informacije, ki so vam na v
 
 Pravna podlaga za obdelavo podatkov je točka f) prvega odstavka 6. člena Uredbe GDPR, ki temelji na našem zakonitem interesu, da celovito izvedemo postopek zaposlitve.
 
-XII. Spletna revija Active Beauty na mediaservis.si
+XII. Spletna revija Active na mediaservis.si
 
 1. Opis in obseg obdelave podatkov
 
-Preko naše spletne strani mediaservis.si lahko pridete tudi na spletno mesto activebeauty.si. Tu lahko berete našo revijo active beauty, poiščete nasvete z različnih področij (npr. s področja lepote) in sodelujete pri nagradnih igrah.
+Preko naše spletne strani mediaservis.si lahko pridete tudi na spletno mesto mediaservis.pub. Tu lahko berete našo revijo active, poiščete nasvete z različnih področij (npr. s področja lepote) in sodelujete pri nagradnih igrah.
 
 Če se odločite za sodelovanje v nagradni igri, upoštevajte vse pravne informacije, ki so vam na voljo, npr. Izjavo o varstvu osebnih podatkov, pogoje sodelovanja itd.
 
@@ -684,4 +725,6 @@ s pripisom »DPO«
 
 Na nas se lahko obrnete tudi preko kontaktnega obrazca.
 
-Nova Gorica, 1. Aprila, 2025
+Nova Gorica, oktober 2024
+
+
