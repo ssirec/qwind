@@ -61,11 +61,11 @@ export default component$(() => {
                   <div>
                     <span class="text-gray-500 dark:text-slate-400">
                       <time dateTime={String(post.publishDate.getTime())}>
-                        {post.publishDate.toLocaleDateString("en-us", {
+                        {post.publishDate.toLocaleDateString("sl-SI", {
                           year: "numeric",
                           month: "short",
                           day: "numeric",
-                          timeZone: "UTC",
+                          timeZone: "GMT+1",
                         })}
                       </time>
                       {/* ~{' '}{Math.ceil(post.readingTime)} min read */}
