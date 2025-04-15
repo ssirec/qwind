@@ -3,7 +3,7 @@ import { Image } from "@unpic/qwik";
 
 import IconStar from "~/components/icons/IconStar";
 const sideImg =
-  "https://images.unsplash.com/photo-1583195648430-18b2681307e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1035&q=80";
+  "https://betanews.com/wp-content/uploads/2022/10/Broken-iPhone-Pro-Max-640x456.jpg&auto=format&fit=crop&w=1035&q=80";
 
 export default component$(() => {
   const stepsData = {
