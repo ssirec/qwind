@@ -65,7 +65,7 @@ export default component$(() => {
                           year: "numeric",
                           month: "short",
                           day: "numeric",
-                          timeZone: "GMT+1",
+                          timeZone: "Europe/Ljubljana",
                         })}
                       </time>
                       {/* ~{' '}{Math.ceil(post.readingTime)} min read */}
