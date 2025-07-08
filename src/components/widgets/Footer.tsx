@@ -1,10 +1,10 @@
 import { component$ } from "@builder.io/qwik";
 import { Link } from "@builder.io/qwik-city";
 
-import IconTwitter from "~/components/icons/IconTwitter"
-import IconInstagram from "~/components/icons/IconInstagram"
-import IconFacebook from "~/components/icons/IconFacebook"
-import IconGithub from "~/components/icons/IconGithub"
+import IconTwitter from "~/components/icons/IconTwitter";
+import IconInstagram from "~/components/icons/IconInstagram";
+import IconFacebook from "~/components/icons/IconFacebook";
+import IconGithub from "~/components/icons/IconGithub";
 
 export default component$(() => {
   const links = [
@@ -117,13 +117,7 @@ export default component$(() => {
           </ul>
 
           <div class="text-sm text-gray-700 mr-4 dark:text-slate-400">
-            <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"></span>
-            Made by{" "}
-            <a class="text-secondary-800 underline dark:text-gray-200" href="https://onwidget.com/">
-              {" "}
-              onWidget
-            </a>{" "}
-            · All rights reserved.
+            © {new Date().getFullYear()} Mediaservis. Vse pravice pridržane.
           </div>
         </div>
       </div>
