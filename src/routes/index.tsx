@@ -2,6 +2,167 @@ import type { DocumentHead } from '@builder.io/qwik-city';
 
 export default function Home() {
   return (
+    <div>
+
+      {/* HEADER */}
+      <header class="sticky top-0 bg-white shadow z-50">
+        <div class="max-w-5xl mx-auto px-4 py-4 flex justify-between items-center">
+          <div class="font-bold text-lg">MEDIASERVIS</div>
+
+          <nav class="hidden md:flex gap-6">
+            <a href="#storitve">Storitve</a>
+            <a href="#onas">O nas</a>
+            <a href="#kontakt">Kontakt</a>
+          </nav>
+
+          <a href="tel:+38668607151" class="btn-call">
+            Pokliči
+          </a>
+        </div>
+      </header>
+
+      <div class="max-w-5xl mx-auto px-4 py-10">
+
+        {/* HERO */}
+        <section class="hero">
+          <h1>
+            Servis telefonov <span class="text-blue-600">Nova Gorica</span>
+          </h1>
+
+          <p class="mt-4">
+            Popravilo zaslona, baterije, polnjenja in več — hitro in zanesljivo.
+          </p>
+
+          <p class="mt-2 text-sm text-gray-500">
+            Ulica tolminskih puntarjev 4 (1. nadstropje)
+          </p>
+
+          <p class="font-semibold mt-2">
+            Ponedeljek – petek: 9:00 – 14:00
+          </p>
+
+          <div class="flex justify-center gap-4 mt-6 flex-wrap">
+            <a href="tel:+38668607151" class="btn-call">
+              📞 Pokliči
+            </a>
+
+            <a href="#kontakt" class="btn-primary-solid">
+              📍 Kje smo
+            </a>
+          </div>
+
+          <div class="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+            <div>✔ 25+ let izkušenj</div>
+            <div>✔ Hitra popravila</div>
+            <div>✔ Apple specialist</div>
+            <div>✔ Brez naročanja</div>
+          </div>
+        </section>
+
+        {/* STORITVE */}
+        <section id="storitve" class="section">
+          <h2 class="mb-6">Kaj popravljamo?</h2>
+
+          <ul class="list-check grid md:grid-cols-2 gap-3">
+            <li>Razbit zaslon</li>
+            <li>Menjava baterije</li>
+            <li>Težave s polnjenjem</li>
+            <li>Slab zvok (zvočnik / mikrofon)</li>
+            <li>Telefon se ne vklopi</li>
+            <li>Samodejno izklapljanje</li>
+            <li>Težave s SIM kartico</li>
+            <li>Prenos podatkov na nov telefon</li>
+          </ul>
+        </section>
+
+        {/* OPOZORILO */}
+        <section class="section-light mb-12">
+          <h2 class="mb-3">Pomembno</h2>
+          <p>
+            Smo neodvisni izven-garancijski servis. Ne izvajamo brezplačnih popravil naprav v garanciji.
+          </p>
+        </section>
+
+        {/* NAVODILA */}
+        <section class="section">
+          <h2 class="mb-4">Pred oddajo v servis</h2>
+
+          <ul class="space-y-2">
+            <li>• Naredite varnostno kopijo podatkov</li>
+            <li>• Odstranite SIM kartico</li>
+            <li>• Odstranite dodatke (etui, kartice)</li>
+          </ul>
+
+          <p class="mt-4">
+            Možna je tudi izdelava kopije pri nas (doplačilo).
+          </p>
+        </section>
+
+        {/* O NAS */}
+        <section id="onas" class="section">
+          <h2 class="mb-4">O nas</h2>
+
+          <p class="mb-4">
+            Že od leta 1999 se ukvarjamo s servisiranjem mobilnih telefonov,
+            prodajo dodatne opreme in rezervnih delov.
+          </p>
+
+          <p>
+            Specializirani smo za Apple naprave in uporabljamo lastno zalogo delov.
+          </p>
+        </section>
+
+        {/* GOOGLE MAPS */}
+        <section id="kontakt" class="section text-center">
+          <h2 class="mb-4">Kje smo</h2>
+
+          <p>SIRSA d.o.o.</p>
+          <p>Ulica tolminskih puntarjev 4, Nova Gorica</p>
+
+          <div class="mt-6">
+            <iframe
+              src="https://www.google.com/maps?q=Ulica+tolminskih+puntarjev+4+Nova+Gorica&output=embed"
+              width="100%"
+              height="300"
+              style="border:0;"
+              loading="lazy"
+            ></iframe>
+          </div>
+
+          <p class="mt-4">Davčna: 21466785</p>
+
+          <p class="mt-6 text-sm text-gray-500">
+            Ne uporabljamo piškotkov.
+          </p>
+        </section>
+
+      </div>
+
+      {/* FLOATING CALL BUTTON */}
+      <a
+        href="tel:+38668607151"
+        class="fixed bottom-5 right-5 bg-green-600 text-white px-5 py-3 rounded-full shadow-lg md:hidden"
+      >
+        📞
+      </a>
+
+    </div>
+  );
+}
+
+export const head: DocumentHead = {
+  title: 'Servis telefonov Nova Gorica',
+  meta: [
+    {
+      name: 'description',
+      content:
+        'Servis mobilnih telefonov in tablic v Novi Gorici. Hitra popravila, menjava baterije, zaslona in več.',
+    },
+  ],
+};import type { DocumentHead } from '@builder.io/qwik-city';
+
+export default function Home() {
+  return (
     <div class="max-w-5xl mx-auto px-4 py-10">
 
       {/* HERO */}
