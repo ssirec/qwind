@@ -42,3 +42,4 @@ export const head: DocumentHead = {
     { charSet: 'utf-8' },
   ],
 };
+``*
