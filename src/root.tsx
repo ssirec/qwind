@@ -1,73 +1,47 @@
-import { component$ } from '@builder.io/qwik';
-import {
-  QwikCityProvider,
-  RouterOutlet,
-  ServiceWorkerRegister,
-} from '@builder.io/qwik-city';
-
-import './global.css';
+import { component$, useStyles$ } from '@builder.io/qwik';
+import { QwikCityProvider, RouterOutlet, ServiceWorkerRegister } from '@builder.io/qwik-city';
+import styles from './assets/styles/global.css?inline';
 
 export default component$(() => {
-  return (
-    <QwikCityProvider>
-      <head>
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Servis telefonov Nova Gorica</title>
-      </head>
-
-      <body lang="sl">
-        <RouterOutlet />
-        <ServiceWorkerRegister />
-      </body>
-    </QwikCityProvider>
-  );
-});import { component$, useStyles$ } from "@builder.io/qwik";
-import { QwikCityProvider, RouterOutlet, ServiceWorkerRegister } from "@builder.io/qwik-city";
-
-import { RouterHead } from "~/components/common/RouterHead";
-import { DarkThemeLauncher } from "~/components/common/DarkThemeLauncher";
-
-// Add i18next imports
-import i18next from "i18next";
-import { initReactI18next } from "react-i18next";
-
-// Import your translation files
-import en from "~/locales/en.json";
-import sl from "~/locales/sl.json";
-import it from "~/locales/it.json";
-
-// Import global styles
-import styles from "~/assets/styles/global.css?inline";
-
-// Initialize i18next
-i18next
-  .use(initReactI18next)
-  .init({
-    resources: {
-      en: { translation: en },
-      sl: { translation: sl },
-      it: { translation: it },
-    },
-    lng: 'en', // default language
-    fallbackLng: 'en',
-    interpolation: {
-      escapeValue: false, // React handles escaping
-    },
-  });
-
-export default component$(() => {
-  /**
-   * The root of a QwikCity site always starts with the <QwikCityProvider> component,
-   * immediately followed by the document's <head> and <body>.
-   *
-   * Don't remove the `<head>` and `<body>` elements.
-   */
-
   useStyles$(styles);
 
   return (
     <QwikCityProvider>
       <head>
         <meta charSet="utf-8" />
-        <
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Servis telefonov Nova Gorica</title>
+        <meta
+          name="description"
+          content="Servis telefonov Nova Gorica. Popravilo zaslona, baterije, polnjenja. Hitra in zanesljiva storitev brez naročanja."
+        />
+        <meta
+          name="keywords"
+          content="servis telefonov Nova Gorica, popravilo mobitelov, menjava zaslona, baterije, servis iPhone Nova Gorica"
+        />
+      </head>
+
+      <body lang="sl">
+        <RouterOutlet />
+        <ServiceWorkerRegister />
+
+        {/* Tawk.to Chat */}
+        <div id="tawk_56c73659b74a0813627d275c"></div>
+        <script
+          dangerouslySetInnerHTML={`
+            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+            Tawk_API.embedded='tawk_56c73659b74a0813627d275c';
+            (function(){
+              var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+              s1.async=true;
+              s1.src='https://embed.tawk.to/56c73659b74a0813627d275c/1gsshkkuq';
+              s1.charset='UTF-8';
+              s1.setAttribute('crossorigin','*');
+              s0.parentNode.insertBefore(s1,s0);
+            })();
+          `}
+        />
+      </body>
+    </QwikCityProvider>
+  );
+});
