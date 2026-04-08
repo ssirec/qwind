@@ -1,6 +1,3 @@
-**Cleaning up code**
-
-I need to clean up the code by replacing `useClientEffect$` with `useVisibleTask$`, as discussed earlier. I also have to check the imports. The head element should be simplified since in QwikCity, the exported name is 'head' or `DocumentHead`. I should ensure the charset field property is { charset: 'utf-8' } with a lowercase key. For metadata, Qwik expects a title and a meta array. I'll also provide cleaned TSX and ensure it uses `component$` exported default and `useStyles$`. Then I'll produce the code block concisely!```tsx
 import { component$, useStyles$, useVisibleTask$ } from '@builder.io/qwik';
 import {
   QwikCityProvider,
@@ -53,4 +50,3 @@ export const head: DocumentHead = {
     { charset: 'utf-8' },
   ],
 };
-```
