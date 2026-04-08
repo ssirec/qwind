@@ -26,6 +26,9 @@ export default component$(() => {
 
   return (
     <QwikCityProvider>
+      <head>
+        {/* Add your head content here if needed */}
+      </head>
       <RouterOutlet />
       <ServiceWorkerRegister />
     </QwikCityProvider>
