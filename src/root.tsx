@@ -33,7 +33,7 @@ export default component$(() => {
         <RouterHead />
       </head>
 
-      <body lang="en">
+      <body lang="sl">
         <RouterOutlet />
         <ServiceWorkerRegister />
       </body>
@@ -55,6 +55,6 @@ export const head: DocumentHead = {
         'servis telefonov Nova Gorica, popravilo mobitelov, menjava zaslona, baterije, servis iPhone Nova Gorica',
     },
     { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-    { charSet: 'utf-8' },
+    { charset: 'utf-8' },
   ],
 };
