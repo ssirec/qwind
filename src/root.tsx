@@ -11,7 +11,7 @@ import styles from './assets/styles/global.css?inline';
 export default component$(() => {
   useStyles$(styles);
 
-  // Load Tawk.to only on the client
+  // Tawk.to chat (client only)
   useVisibleTask$(() => {
     const s1 = document.createElement('script');
     s1.async = true;
@@ -30,6 +30,23 @@ export default component$(() => {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        {/* Favicon */}
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="alternate icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+        {/* Google Analytics */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
+        <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXX');
+          `}
+        </script>
+
         <RouterHead />
       </head>
 
@@ -42,19 +59,39 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Servis telefonov Nova Gorica | Popravilo mobitelov',
+  title: 'Servis telefonov Nova Gorica | Mediaservis',
   meta: [
     {
       name: 'description',
       content:
-        'Servis telefonov Nova Gorica. Popravilo zaslona, baterije, polnjenja. Hitra in zanesljiva storitev brez naročanja.',
+        'Servis telefonov Nova Gorica. Menjava zaslona, baterije, diagnostika, popravilo polnjenja. Hitra in zanesljiva popravila brez naročanja.',
     },
     {
       name: 'keywords',
       content:
-        'servis telefonov Nova Gorica, popravilo mobitelov, menjava zaslona, baterije, servis iPhone Nova Gorica',
+        'servis telefonov Nova Gorica, popravilo mobitelov, menjava zaslona, menjava baterije, servis iPhone, servis Samsung, servis Huawei',
     },
-    { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-    { charset: 'utf-8' },
+
+    // OpenGraph
+    { property: 'og:title', content: 'Servis telefonov Mediaservis Nova Gorica' },
+    {
+      property: 'og:description',
+      content: 'Hiter in zanesljiv servis telefonov v Novi Gorici. Menjava zaslona, baterije, diagnostika.',
+    },
+    { property: 'og:type', content: 'website' },
+    { property: 'og:url', content: 'https://mediaservis.si' },
+    { property: 'og:image', content: '/assets/og-image.avif' },
+
+    // Twitter
+    { name: 'twitter:card', content: 'summary_large_image' },
+    { name: 'twitter:title', content: 'Servis telefonov Nova Gorica' },
+    {
+      name: 'twitter:description',
+      content: 'Hiter in zanesljiv servis telefonov v Novi Gorici.',
+    },
+    { name: 'twitter:image', content: '/assets/og-image.avif' },
+  ],
+  links: [
+    { rel: 'canonical', href: 'https://mediaservis.si' },
   ],
 };
