@@ -1,20 +1,24 @@
 {
   "name": "mediaservis",
-  "description": "Servis mobilnih telefonov in tablic Nova Gorica. Popravilo telefonov, menjava baterij, zaslonov in več.",
   "version": "1.0.0",
+  "description": "Servis mobilnih telefonov in tablic Nova Gorica. Popravilo telefonov, menjava baterij, zaslonov in več.",
   "type": "module",
   "private": true,
   "engines": {
     "node": ">=18 <=22"
   },
-"scripts": {
-  "build": "qwik build",
-  "build.client": "qwik build --client",
-  "build.server": "qwik build --server",
-  "dev": "vite --mode ssr",
-  "preview": "vite preview",
-  "start": "vite --mode ssr",
-  "lint": "eslint \"src/**/*.ts*\""
+  "scripts": {
+    "build": "qwik build",
+    "build:client": "vite build",
+    "build:server": "qwik build --server",
+    "dev": "vite",
+    "dev:ssr": "qwik dev",
+    "preview": "vite preview",
+    "start": "qwik dev",
+    "lint": "eslint \"src/**/*.{ts,tsx}\"",
+    "lint:fix": "eslint --fix \"src/**/*.{ts,tsx}\"",
+    "format": "prettier --write .",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@builder.io/qwik": "^1.8.0",
