@@ -1,6 +1,9 @@
 name = "mediaservis"
 compatibility_date = "2024-01-01"
 
+# Cloudflare Pages build output
+pages_build_output_dir = "dist"
+
 [build]
 command = "npm run build"
 cwd = "."
