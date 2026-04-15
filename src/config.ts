@@ -6,4 +6,8 @@ export const SITE = {
   origin: "https://qwind.pages.dev",
   basePathname: "/",
   trailingSlash: true,
+
+  // priporočeno za Qwind / SEO
+  lang: "sl-SI",
+  author: "Mediaservis",
 } as const;
