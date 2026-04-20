@@ -2,11 +2,34 @@ import { component$, useStyles$, useVisibleTask$ } from '@builder.io/qwik';
 import {
   QwikCityProvider,
   RouterOutlet,
-  RouterHead,
   ServiceWorkerRegister,
+  useDocumentHead,
   type DocumentHead,
 } from '@builder.io/qwik-city';
 import styles from './assets/styles/global.css?inline';
+
+const RouterHeadFallback = component$(() => {
+  const docHead = useDocumentHead();
+
+  return (
+    <>
+      {docHead.title ? <title>{docHead.title}</title> : null}
+
+      {docHead.meta?.map((m, i) => {
+        // m can be { name, content } or { property, content }
+        return <meta key={i} {...(m as any)} />;
+      })}
+
+      {docHead.links?.map((l, i) => {
+        return <link key={i} {...(l as any)} />;
+      })}
+
+      {docHead.styles?.map((s, i) => {
+        return <style key={i} {...(s as any)} />;
+      })}
+    </>
+  );
+});
 
 export default component$(() => {
   useStyles$(styles);
@@ -47,7 +70,7 @@ export default component$(() => {
           `}
         </script>
 
-        <RouterHead />
+        <RouterHeadFallback />
       </head>
 
       <body lang="sl">
@@ -71,7 +94,6 @@ export const head: DocumentHead = {
       content:
         'servis telefonov Nova Gorica, popravilo mobitelov, menjava zaslona, menjava baterije, servis iPhone, servis Samsung, servis Huawei',
     },
-
     { property: 'og:title', content: 'Servis telefonov Mediaservis Nova Gorica' },
     {
       property: 'og:description',
