@@ -1,15 +1,15 @@
 import { defineConfig } from 'vite';
-import qwikVite from '@builder.io/qwik/optimizer'; // prilagodi, če uporabljaš drugačen import
+import { qwikVite } from '@builder.io/qwik/optimizer';
 
 export default defineConfig({
   plugins: [qwikVite()],
   build: {
-    // Izognemo se konfliktu: onemogočimo inlineDynamicImports, da lahko Rollup uporablja manualChunks
     rollupOptions: {
       output: {
+        // Onemogočimo inlineDynamicImports, da ni konflikta z manualChunks
         inlineDynamicImports: false,
-        // Če imaš custom manualChunks, pusti ga; če ne, Rollup bo sam razdelil pakete.
-        // manualChunks: { /* ... */ } // odstrani ali prilagodi, če povzroča težave
+        // Če imate v projektu custom manualChunks, ga lahko pustite.
+        // Če ne, Rollup bo sam razdelil pakete.
       },
     },
   },
