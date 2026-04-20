@@ -2,7 +2,7 @@ import { component$, useStyles$, useVisibleTask$ } from '@builder.io/qwik';
 import {
   QwikCityProvider,
   RouterOutlet,
-  RouterHead,
+  Head,
   ServiceWorkerRegister,
   type DocumentHead,
 } from '@builder.io/qwik-city';
@@ -47,7 +47,7 @@ export default component$(() => {
           `}
         </script>
 
-        <RouterHead />
+        <Head />
       </head>
 
       <body lang="sl">
