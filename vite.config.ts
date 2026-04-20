@@ -1,24 +1,16 @@
-import path from 'path';
 import { defineConfig } from 'vite';
-import { qwikVite } from '@builder.io/qwik/optimizer';
-import { qwikCity } from '@builder.io/qwik-city/vite';
-import { cloudflarePagesAdapter } from '@builder.io/qwik-city/adapters/cloudflare-pages/vite';
+import qwikVite from '@builder.io/qwik/optimizer'; // prilagodi, če uporabljaš drugačen import
 
-export default defineConfig(() => {
-  return {
-    resolve: {
-      alias: {
-        '~': path.resolve(__dirname, 'src'),
+export default defineConfig({
+  plugins: [qwikVite()],
+  build: {
+    // Izognemo se konfliktu: onemogočimo inlineDynamicImports, da lahko Rollup uporablja manualChunks
+    rollupOptions: {
+      output: {
+        inlineDynamicImports: false,
+        // Če imaš custom manualChunks, pusti ga; če ne, Rollup bo sam razdelil pakete.
+        // manualChunks: { /* ... */ } // odstrani ali prilagodi, če povzroča težave
       },
     },
-    plugins: [
-      qwikCity(),
-      qwikVite(),
-      cloudflarePagesAdapter(),
-    ],
-    build: {
-      target: 'es2020',
-      minify: 'esbuild',
-    },
-  };
+  },
 });
