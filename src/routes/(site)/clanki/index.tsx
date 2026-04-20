@@ -4,7 +4,7 @@ import type { DocumentHead } from "@builder.io/qwik-city";
 
 import type { Post } from "~/types";
 import { fetchPosts } from "~/utils/posts";
-import { SITE } from "~/config.mjs";
+import { SITE } from "~/config";
 
 export default component$(() => {
   const store = useStore<{ posts: Post[] }>({
@@ -68,10 +68,9 @@ export default component$(() => {
                           timeZone: "Europe/Ljubljana",
                         })}
                       </time>
-                      {/* ~{' '}{Math.ceil(post.readingTime)} min read */}
                     </span>
                   </div>
-                  <div class="mt-4">{/* <PostTags tags={post.tags} /> */}</div>
+                  <div class="mt-4"></div>
                 </footer>
               </div>
             </article>
