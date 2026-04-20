@@ -1,16 +1,21 @@
 import { defineConfig } from 'vite';
 import { qwikVite } from '@builder.io/qwik/optimizer';
+import { qwikCity } from '@builder.io/qwik-city/vite';
 
 export default defineConfig({
-  plugins: [qwikVite()],
+  plugins: [
+    // Qwik City vite plugin must run before the optimizer so it can generate the plan
+    qwikCity(),
+    qwikVite(),
+  ],
   build: {
     rollupOptions: {
       output: {
-        // Onemogočimo inlineDynamicImports, da ni konflikta z manualChunks
+        // Onemogočimo inlineDynamicImports, da se izognemo konfliktu z manualChunks
         inlineDynamicImports: false,
-        // Če imate v projektu custom manualChunks, ga lahko pustite.
-        // Če ne, Rollup bo sam razdelil pakete.
       },
+      // Če Rollup še vedno poskuša externalizirati @qwik-city-plan, lahko dodamo:
+      // external: [], // običajno ni potrebno, pustite prazno
     },
   },
 });
