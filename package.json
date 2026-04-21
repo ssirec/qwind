@@ -8,15 +8,13 @@
     "node": ">=18 <=22"
   },
   "scripts": {
-    "build": "qwik build --no-lint",
+    "build": "qwik build",
     "build.client": "vite build",
     "build.server": "qwik build --server",
     "dev": "vite",
     "dev:ssr": "qwik dev",
     "preview": "vite preview",
     "start": "qwik dev",
-    "lint": "eslint \"src/**/*.{ts,tsx}\"",
-    "lint:fix": "eslint --fix \"src/**/*.{ts,tsx}\"",
     "format": "prettier --write .",
     "typecheck": "tsc --noEmit"
   },
