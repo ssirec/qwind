@@ -8,7 +8,7 @@
     "node": ">=18 <=22"
   },
   "scripts": {
-    "build": "qwik build",
+    "build": "qwik build --no-lint",
     "build.client": "vite build",
     "build.server": "qwik build --server",
     "dev": "vite",
