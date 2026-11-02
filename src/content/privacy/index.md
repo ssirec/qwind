@@ -1,59 +1,45 @@
-# Politika zasebnosti
+Pogoji uporabe spletne strani Mediaservis.
+Pogoji uporabe
+Zadnja posodobitev: 21. april 2026
 
-Zadnja posodobitev: {new Date().getFullYear()}
+Splošno
+Z uporabo spletne strani Mediaservis se strinjate s temi pogoji uporabe.
 
-Vaša zasebnost je za nas pomembna. V podjetju **Sirsa d.o.o. (Mediaservis Nova Gorica)** se zavezujemo, da bomo vaše osebne podatke obdelovali zakonito, pošteno in pregledno, skladno z Uredbo GDPR in slovensko zakonodajo.
+Če se s pogoji ne strinjate, spletne strani ne uporabljajte.
 
-## 1. Upravljavec podatkov
-**Sirsa d.o.o. – Mediaservis Nova Gorica**  
-E‑pošta: info@mediaservis.si  
-Spletna stran: https://mediaservis.si
+Informacije na spletni strani
+Vsebine na spletni strani so informativne narave.
 
-## 2. Katere podatke zbiramo
-Zbiramo samo podatke, ki nam jih posredujete prostovoljno:
+Mediaservis si prizadeva zagotavljati točne in ažurne informacije, vendar ne jamči za popolno točnost vseh objavljenih podatkov.
 
-- Ime in priimek  
-- E‑poštni naslov  
-- Telefonska številka  
-- Vsebina sporočila  
-- Podatki, poslani preko kontaktnega obrazca
+Storitve
+Objavljene cene, roki izvedbe in opisi storitev so informativne narave ter se lahko spremenijo brez predhodnega obvestila.
 
-## 3. Namen obdelave
-Podatke obdelujemo za:
+Končna ponudba se določi po pregledu naprave oziroma povpraševanja.
 
-- odgovor na vaše povpraševanje  
-- pripravo ponudbe  
-- komunikacijo glede servisa  
-- izboljšanje uporabniške izkušnje
+Intelektualna lastnina
+Vsebine, fotografije, logotipi, grafike in besedila na spletni strani so zaščitene z avtorskimi pravicami.
 
-## 4. Hramba podatkov
-Podatke hranimo samo toliko časa, kolikor je potrebno za izpolnitev namena, za katerega so bili zbrani.
+Kopiranje, distribucija ali druga uporaba brez predhodnega dovoljenja ni dovoljena.
 
-## 5. Posredovanje podatkov
-Vaših podatkov **ne posredujemo tretjim osebam**, razen:
+Povezave do drugih strani
+Spletna stran lahko vsebuje povezave do zunanjih spletnih strani.
 
-- če to zahteva zakon  
-- če je to potrebno za izvedbo storitve (npr. dostava)
+Mediaservis ne odgovarja za vsebino ali delovanje teh spletnih strani.
 
-## 6. Vaše pravice
-Imate pravico do:
+Omejitev odgovornosti
+Mediaservis ne odgovarja za:
 
-- dostopa do podatkov  
-- popravka  
-- izbrisa  
-- omejitve obdelave  
-- ugovora  
-- prenosljivosti podatkov  
+morebitne motnje pri delovanju spletne strani,
+izgubo podatkov,
+škodo zaradi uporabe informacij s spletne strani.
+Spremembe pogojev
+Mediaservis si pridržuje pravico do spremembe teh pogojev brez predhodnega obvestila.
 
-Zahtevo lahko pošljete na: **info@mediaservis.si**
+Veljavno pravo
+Za te pogoje uporabe velja pravo Republike Slovenije.
 
-## 7. Piškotki
-Spletna stran uporablja osnovne tehnične piškotke za delovanje.  
-Uporabljamo tudi Google Analytics (anonimizirano).
+Kontakt
+Mediaservis Nova Gorica, Slovenija
 
-## 8. Varnost
-Uporabljamo tehnične in organizacijske ukrepe za zaščito vaših podatkov.
-
-## 9. Kontakt
-Za vsa vprašanja glede zasebnosti nam pišite na:  
-**info@mediaservis.si**
+Za vprašanja glede zasebnosti, pogojev uporabe ali storitev uporabite kontaktni obrazec na spletni strani.
